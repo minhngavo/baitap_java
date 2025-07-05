@@ -1,4 +1,7 @@
 package BaiTapHaiSao;
+//Xóa Ký Tự Lặp Lại Trong Chuỗi Mô tả: Viết một hàm xóa các ký tự lặp lại trong chuỗi, chỉ giữ lại ký tự xuất hiện đầu tiên của mỗi loại.
+// Yêu cầu: Hàm nhận vào một chuỗi và trả về chuỗi mới không chứa ký tự lặp lại.
+// Ví dụ: Input: "programming" Output: "progamin" Input: "abca" Output: "abc"
 
 import java.util.HashMap;
 import java.util.HashSet;

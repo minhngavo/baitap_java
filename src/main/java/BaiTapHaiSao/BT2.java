@@ -1,5 +1,7 @@
 package BaiTapHaiSao;
-import java.util.Scanner;
+//Kiểm Tra Chuỗi Đối Xứng Mô tả: Viết một hàm kiểm tra xem một chuỗi có phải là chuỗi đối xứng (palindrome) không.
+// Yêu cầu: Hàm nhận vào một chuỗi. Trả về true nếu chuỗi là đối xứng, false nếu không.
+//Ví dụ: Input: "madam" Output: true Input: "hello" Output: false
 
 public class BT2 {
 
